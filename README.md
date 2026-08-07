@@ -31,7 +31,7 @@ To evaluate the practical asset allocation performance of the trained neural net
 
 * **Backtest Engine & Strategies**: Includes the core evaluation framework (`DeepBSDEBacktestEngine_lnSRE.py`) and log-space strategy implementations for both the DeepBSDE and DBDP2 methods.
 * **Historical Data & Results**: Contains the real historical dataset (`SP500_ETFs_data.csv`), pre-trained neural network weights (`.pt` files), and Jupyter Notebooks demonstrating the practical execution of both methods using the actual market trajectory for the year 2020.
-* **Detailed Documentation**: For a comprehensive breakdown of the engine architecture, supported empirical benchmarks (e.g., Equal Weight, Inverse Variance, Global Minimum Variance), and detailed performance/risk metrics, please refer to the dedicated documentation: **[Trading_test/README_for_trading_test.md](https://www.google.com/search?q=./Trading_test/README_for_trading_test.md)**.
+* **Detailed Documentation**: For a comprehensive breakdown of the engine architecture, supported empirical benchmarks (e.g., Equal Weight, Inverse Variance, Global Minimum Variance), and detailed performance/risk metrics, please refer to the dedicated documentation: **[Trading_test/README_for_trading_test.md](./Trading_test/README_for_trading_test.md)**.
 
 ---
 
