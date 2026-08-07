@@ -47,4 +47,4 @@ All benchmarks and experimental results in the paper were executed using Google 
 
 ## 🤝 Acknowledgments
 
-The authors would like to thank Weiran Xiong for helpful discussions on the use of deep learning methods forsolving backward stochastic differential equations (BSDEs).
+The authors would like to thank Weiran Xiong for helpful discussions on the use of deep learning methods for solving backward stochastic differential equations (BSDEs).
