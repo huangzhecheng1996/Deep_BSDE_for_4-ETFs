@@ -1,4 +1,4 @@
-[DOI](https://zenodo.org/badge/1326598410.svg)](https://doi.org/10.5281/zenodo.21838225)
+[![DOI](https://zenodo.org/badge/1326598410.svg)](https://doi.org/10.5281/zenodo.21838225)
 
 This repository contains the implementation for the paper: **"Dynamic Mean–Variance Portfolio Selection under Multifactor Stochastic Volatility: A Computational Framework for Stochastic Riccati Equations"**.
 
