@@ -1,0 +1,12 @@
+name: deep_bsde_env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=12.1
+  - pandas
+  - numpy
